@@ -3,3 +3,5 @@ RunSimulator
 StockData/StockKey.txt
 StockData/Stocks/
 StockData/GenerateStockCsv
+build/
+.DS_Store
