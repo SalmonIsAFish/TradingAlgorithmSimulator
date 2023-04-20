@@ -1,7 +1,5 @@
 RunSimulator
 .vscode/
-StockData/StockKey.txt
-StockData/Stocks/
-StockData/GenerateStockCsv
+StockData/
 build/
 .DS_Store
